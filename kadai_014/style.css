@@ -1,0 +1,33 @@
+.description {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 40px;  
+    text-align: center;
+    letter-spacing: 1.2em;
+    text-decoration: underline;
+    text-shadow: 3px 3px 3px rgb(115, 115, 114);
+    font-weight: bold;
+}
+
+.font_test {
+    color: skyblue; 
+}
+
+.font_test2 {
+    color: #ffc0cb; 
+}
+
+.div {
+    font-family: 20px;
+    font-family:"Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+
+.text-pink {
+    color: #ffc0cb;
+    font-weight: bold;
+}
+
+.text-blue {
+    color: skyblue;
+    font-weight: bold;
+}
