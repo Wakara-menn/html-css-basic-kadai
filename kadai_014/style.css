@@ -1,33 +1,24 @@
-.description {
-    font-family: "Josefin Sans", sans-serif;
-    font-size: 40px;  
-    text-align: center;
-    letter-spacing: 1.2em;
-    text-decoration: underline;
-    text-shadow: 3px 3px 3px rgb(115, 115, 114);
-    font-weight: bold;
-}
-
-.font_test {
-    color: skyblue; 
-}
-
-.font_test2 {
-    color: #ffc0cb; 
-}
-
-.div {
-    font-family: 20px;
+body {
     font-family:"Arial", "Meiryo", sans-serif;
     text-align: center;
 }
-
-.text-pink {
-    color: #ffc0cb;
+h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 40px;
     font-weight: bold;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px gray;
 }
-
-.text-blue {
-    color: skyblue;
+hr {
+    font-size: 3px;
+}
+.skyblue {
+    color: skyblue; 
+}
+.pink {
+    color: #ffc0cb; 
+}
+#basic {
+    font-size: 20px;
     font-weight: bold;
 }
