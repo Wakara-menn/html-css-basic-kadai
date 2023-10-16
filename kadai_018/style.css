@@ -3,11 +3,11 @@
     width: 800px;
     background-color: #dcc9f4;
     padding: 20px;
-    margin: 20px;
     margin-left: auto;
     margin-right: auto;
 }
 .top-child {
+    display: inline-block;
     width: 20%;
     background-color: #ffd9df;
     margin-left: auto;
@@ -15,10 +15,13 @@
     text-align: center;
 }
 #middle {
-    display: inline-block;
+    position: relative;
     width: 800px;
     height: 800px;
-    margin-top: 40px;
+    padding: 20px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #ffd0df;
 }
 #middle-child01 {
@@ -46,6 +49,7 @@
     background-color: #87ceeb;
 }
 #bottom {
+    position: relative;
     width: 800px;
     height: 300px;
     margin-left: auto;
@@ -53,6 +57,7 @@
     background-color: #87ceeb;
 }
 #bottom-child01 {
+    position: relative;
     width: 400px;
     height: 100px;
     background-color: #e5dcf0;
@@ -65,7 +70,7 @@
     background-color: #e5dcf0;    
 }
 #bottom-child03 {
-    position: relative;
+    position: absolute;
     left: 400px;
     width: 400px;
     height: 100px;
