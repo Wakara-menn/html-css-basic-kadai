@@ -2,9 +2,9 @@
     position: relative;
     width: 800px;
     background-color: #dcc9f4;
-    padding: 20px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 .top-child {
     display: inline-block;
@@ -18,7 +18,6 @@
     position: relative;
     width: 800px;
     height: 800px;
-    padding: 20px;
     margin: 20px;
     margin-left: auto;
     margin-right: auto;
@@ -70,7 +69,7 @@
     background-color: #e5dcf0;    
 }
 #bottom-child03 {
-    position: absolute;
+    position: relative;
     left: 400px;
     width: 400px;
     height: 100px;
