@@ -1,16 +1,16 @@
-body {
-    font-family:"Arial", "Meiryo", sans-serif;
+html {
+    font-size: 20px;
     text-align: center;
 }
 h1 {
     font-family: "Josefin Sans", sans-serif;
-    font-size: 40px;
+    font-size: 2rem;
     font-weight: bold;
     letter-spacing: 1.2em;
-    text-shadow: 1px 1px 2px gray;
+    text-shadow: 5px 5px 5px gray;
 }
-hr {
-    font-size: 3px;
+main {
+    font-family:"Arial", "Meiryo", sans-serif;
 }
 .skyblue {
     color: skyblue; 
@@ -19,6 +19,5 @@ hr {
     color: #ffc0cb; 
 }
 #basic {
-    font-size: 20px;
     font-weight: bold;
 }
